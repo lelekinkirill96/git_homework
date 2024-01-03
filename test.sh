@@ -6,3 +6,4 @@ else
 mkdir -p "$DIRNAME" && echo "created";
 fi
 ### New line 
+## SECOND LINE
